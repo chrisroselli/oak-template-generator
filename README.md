@@ -1,4 +1,4 @@
-# oak Template Generator
+# Oak Template Generator
 #### The Treehouse Internet Group
 
 > Template generator for oak
@@ -15,7 +15,7 @@ $ sudo npm install -g npm
 $ sudo npm install -g slush
 $ sudo npm install -g gulp
 ```
-## Install oak generator
+## Install Oak generator
 Install `slush-oak` globally:
 
 ```bash
@@ -47,8 +47,8 @@ Inside you will find some familiar file names, `borders.php`, `template.css` and
 Open them up in your favorite editor and paste them into our CMS.  
 Yes, that's it.
 ## Post generator tweaks
-Now I hope you didn't think you were gonna paste those files into the CMS and post "Site ready for review" on 5pm.  
-There will certainly be some code clean up to do. But hey, the boring part's out of the way(content), now time to make that site shine!
+Now I hope you didn't think you were gonna paste those files in and poof, "Site ready for review".
+There will certainly be some code tweaking to do. But hey, the boring part's out of the way....content, now time to make that site pop!
 
 ## Getting To Know Slush
 
