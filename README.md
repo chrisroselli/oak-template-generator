@@ -1,7 +1,7 @@
-# oak Template Generator
+# Oak Template Generator
 #### The Treehouse Internet Group
 
-> Template generator for oak
+> Template generator for Oak
 
 
 ## Getting Started
@@ -15,7 +15,7 @@ $ sudo npm install -g npm
 $ sudo npm install -g slush
 $ sudo npm install -g gulp
 ```
-## Install oak generator
+## Install Oak generator
 Install `slush-oak` globally:
 
 ```bash
