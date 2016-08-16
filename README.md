@@ -6,8 +6,11 @@
 
 ## Getting Started
 
+Open you terminal or you can download iTerm(Mac only)
+[here](https://www.iterm2.com)
+
 You'll need to install Node.js:
-[here](https://nodejs.org/en/download/)
+[here](https://nodejs.org/en/download)
 
 You'll need to install npm, gulp, and slush:
 ```bash
