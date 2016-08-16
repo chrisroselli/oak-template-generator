@@ -1,29 +1,54 @@
-# Slush Oak [![Build Status](https://secure.travis-ci.org/chrisroselli/slush-oak.png?branch=master)](https://travis-ci.org/chrisroselli/slush-oak) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-oak.png)](http://badges.enytc.com/for/npm/slush-oak)
+# oak Template Generator
+#### The Treehouse Internet Group
 
-> Template generator for oak 
+> Template generator for oak
 
 
 ## Getting Started
 
+You'll need to install Node.js:
+[here](https://nodejs.org/en/download/)
+
+You'll need to install npm, gulp, and slush:
+```bash
+$ sudo npm install -g npm
+$ sudo npm install -g slush
+$ sudo npm install -g gulp
+```
+## Install oak generator
 Install `slush-oak` globally:
 
 ```bash
-$ npm install -g slush-oak
+$ sudo npm install -g slush-oak
 ```
 
-### Usage
-
-Create a new folder for your project:
+Create a new folder for your project in a location of your choice:
 
 ```bash
-$ mkdir my-slush-oak
+$ mkdir xxxx-slush-oak
 ```
-
-Run the generator from within the new folder:
+Navigate to your new folder:
 
 ```bash
-$ cd my-slush-oak && slush oak
+$ cd xxxx-slush-oak
 ```
+## Time to gather content:
+Refer to [oak generator question list here](https://github.com/chrisroselli/oak-template-generator/blob/master/oak_questions.md)  
+## Ready to generate?
+On your mark, get set, go run the generator in your xxxx-slush-oak folder!
+```bash
+$ slush oak
+```
+## Now what?
+You successfully entered your content into the generator, now what?  
+Well now you should see a `dest` folder in your xxxx-slush-oak folder.  
+What are you waiting for open it!  
+Inside you will find some familiar file names, `borders.php`, `template.css` and `screen.css`.  
+Open them up in your favorite editor and paste them into our CMS.  
+Yes, that's it.
+## Post generator tweaks
+Now I hope you didn't think you were gonna paste those files into the CMS and post "Site ready for review" on 5pm.  
+There will certainly be some code clean up to do. But hey, the boring part's out of the way(content), now time to make that site shine!
 
 ## Getting To Know Slush
 
@@ -35,36 +60,13 @@ To find out more about Slush, check out the [documentation](https://github.com/s
 
 ## Contributing
 
-See the [CONTRIBUTING Guidelines](https://github.com/chrisroselli/slush-oak/blob/master/CONTRIBUTING.md)
+See the [CONTRIBUTING Guidelines](https://github.com/chrisroselli/oak-template-generator/blob/master/CONTRIBUTING.md)
 
 ## Support
-If you have any problem or suggestion please open an issue [here](https://github.com/chrisroselli/slush-oak/issues).
+If you have any problem or suggestion please open an issue [here](https://github.com/chrisroselli/oak-template-generator/issues).
 
-## License 
+## License
 
 The MIT License
 
 Copyright (c) 2016, Chris Roselli
-
-Permission is hereby granted, free of charge, to any person
-obtaining a copy of this software and associated documentation
-files (the "Software"), to deal in the Software without
-restriction, including without limitation the rights to use,
-copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the
-Software is furnished to do so, subject to the following
-conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
-OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
-HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
-
-# oak-template-generator
