@@ -1,7 +1,7 @@
 # Oak Template Generator
 #### The Treehouse Internet Group
 
-> Template generator for oak
+> Template generator for Oak
 
 
 ## Getting Started
