@@ -21,7 +21,7 @@ Paste main message image link:
 Paste main message text:  
 Paste main message subtext:  
 
-__Ready to add service icons?__
+__Ready to add service icons?__  
 How many service icons?:  
 Use spacebar to select service icons:    
 ~menu~
