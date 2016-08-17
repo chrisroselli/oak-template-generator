@@ -36,7 +36,7 @@ Navigate to your new folder:
 $ cd xxxx-slush-oak
 ```
 ## Time to gather content:
-Refer to [oak generator question list here](https://github.com/chrisroselli/oak-template-generator/blob/master/oak_questions.md)  
+Refer to [oak generator question list here](https://github.com/chrisroselli/oak-template-generator/blob/master/oak_generator_question_list.md)  
 ## Ready to generate?
 On your mark, get set, go run the generator in your xxxx-slush-oak folder!
 ```bash
@@ -44,14 +44,13 @@ $ slush oak
 ```
 ## Now what?
 You successfully entered your content into the generator, now what?  
-Well now you should see a `dest` folder in your xxxx-slush-oak folder.  
+Now you should see a `dest` folder in your xxxx-slush-oak folder.  
 What are you waiting for open it!  
 Inside you will find some familiar file names, `borders.php`, `template.css` and `screen.css`.  
-Open them up in your favorite editor and paste them into the CMS.  
-Yes, that's it.
+Open them up in your favorite editor and paste them into the CMS, and that's it.  
 ## Post generator tweaks
-Now I hope you didn't think you were gonna paste those files in and poof, "Site ready for review".
-There will certainly be some code tweaking to do. But hey, the boring part's out of the way....content, now time to make that site pop!
+Now I hope you didn't think you were gonna paste those files in and poof, "site ready for review".
+There will certainly be some code tweaking to do. But hey, the boring part's out of the way....content, now time to work your magic and make that site pop!
 
 ## Getting To Know Slush
 
