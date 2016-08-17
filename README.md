@@ -6,7 +6,7 @@
 
 ## Getting Started
 
-Open you terminal or you can download iTerm(Mac only)
+Open your terminal or you can download iTerm(Mac only)
 [here](https://www.iterm2.com)
 
 You'll need to install Node.js:
@@ -47,7 +47,7 @@ You successfully entered your content into the generator, now what?
 Well now you should see a `dest` folder in your xxxx-slush-oak folder.  
 What are you waiting for open it!  
 Inside you will find some familiar file names, `borders.php`, `template.css` and `screen.css`.  
-Open them up in your favorite editor and paste them into our CMS.  
+Open them up in your favorite editor and paste them into the CMS.  
 Yes, that's it.
 ## Post generator tweaks
 Now I hope you didn't think you were gonna paste those files in and poof, "Site ready for review".
